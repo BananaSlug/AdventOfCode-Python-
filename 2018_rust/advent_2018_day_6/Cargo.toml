@@ -1,0 +1,7 @@
+[package]
+name = "advent_2018_day_6"
+version = "0.1.0"
+authors = ["jcrannell-ash"]
+edition = "2018"
+
+[dependencies]
